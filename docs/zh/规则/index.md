@@ -1,4 +1,4 @@
-# 法律
+# 规定
 
 - [Privacy Policy](https://freeflarum.com/privacy);
 - [Terms & Conditions](https://freeflarum.com/terms);
